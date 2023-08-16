@@ -1,5 +1,5 @@
 ## Image Segmentation
-Mini project by Zofia Barel and Rivka McGowan. 
+Mini project by Tzofia Barel and Rivka McGowan. 
 
 In this project, we worked on models how to best fit the images by the masks. We have about 650 images and masks in total. We train with 70 percent of them and we validate and test with the rest 30 percent by 15 percent respectively. We took the data from kaggle. We combined all the data to one folder of images and masks to make our job easier. You can see the links below. We started working on models using CNN and python packages such as keras tensorflow. You can see the links for the code below for the project and the links to the models. 
 
