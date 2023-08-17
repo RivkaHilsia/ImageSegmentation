@@ -10,8 +10,9 @@ Link to the masks (https://drive.google.com/drive/folders/1jxkKAH5-LnRizSwvjZWaq
 ##We had to combine the images and masks to one folder each so below is the code.  
 Here is the code (https://colab.research.google.com/drive/1-lk9EbjBBoMPo3YmKMNJYZ3duNJsa5qE?usp=sharing).
 
-##Below is the link code for the whole project.  
-The code (https://colab.research.google.com/drive/1XkiTVz07iclX74CQCT34WDRfCTa_wejT?usp=sharing).
+##Below is the links code for the whole project with two different models.
+The code (https://colab.research.google.com/drive/1XkiTVz07iclX74CQCT34WDRfCTa_wejT?usp=sharing).  
+The code (https://colab.research.google.com/drive/1GdR5j6KynZtveUOEw6oIKX6wr25QY9PU?usp=sharing).  
 
 ##Types of the model being run through the project. The links can be only used in specific line in the code.   
 Links to the models (https://drive.google.com/drive/folders/1LOjsQJNl0fTCV0xFi6o5JFtV2lMSqm1r?usp=drive_link).
